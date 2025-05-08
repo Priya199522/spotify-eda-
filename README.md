@@ -1,9 +1,14 @@
-# spotify-eda-
+# spotify-eda
+• Collected a Spotify dataset from the web and performed extensive data cleaning and preprocessing to prepare it for analysis and modeling.
 
+• Conducted Exploratory Data Analysis (EDA) to uncover insights into music trends, artist popularity, and listener behavior.
 
-• The dataset is collected from web.
-• The data was cleaned and processed and analysed before EDA.
-• Scikit learn, pandas, numpy, matplotlib and seaborn used for model building, 
-  analysis, predictive modelling and visualization.
-• Build a Recommended system using Euclidean distance, Cosine similarity 
-  distance and Correlation distance.
+• Utilized scikit-learn, pandas, NumPy, matplotlib, and seaborn for data analysis, visualization, and model building.
+
+• Built a recommendation system using multiple distance metrics:
+
+• Euclidean Distance
+• Cosine Similarity
+• Correlation Distance
+
+• The recommendation system provides personalized music suggestions based on user preferences and listening history.
